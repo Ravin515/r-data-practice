@@ -21,6 +21,8 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 
 [Renkun](https://github.com/renkun-ken)本没有练习的答案，我们在这里提供了使用`data.table`的实现。我们认为`data.table`是最好的R数据处理工具包，关于更多`data.table`的神奇之处，请参考它的[Github 主页](https://github.com/Rdatatable/data.table)
 
+所有练习及答案都放在[answer-keys](answer-keys.ipynb)这个Jupyter Notebook中。
+
 ## 项目结构
 - `dataset-and-questions.md`： 关于数据集的介绍，同时给出所有50道练习题（不含答案）。
 
