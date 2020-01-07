@@ -9,7 +9,7 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 
 - `answer-keys.ipynb`: The questions and answers.
 
-    <img src="img/answer-keys.png" width="500">
+    <img src="img/answer-keys.png" width="600">
 
 - `data`: the data folder
     - `stock-market-data.rds`: the dataset. Please use `readRDS` to import the data.
@@ -34,7 +34,7 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 
 - `answer-keys.ipynb`: 练习题答案。每一道练习题都包括题目、答案代码以及答案预览
 
-    <img src="img/answer-keys.png" width="500">
+    <img src="img/answer-keys.png" width="600">
 
 ## 学习资源推荐
 
