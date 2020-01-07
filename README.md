@@ -19,15 +19,16 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 # R语言数据操作练习
 > Update (Jan 6, 2020)
 >
-> 目前有些题目的答案还不是很完善，我们正在努力校对。**经过校对的答案为1-5题**。
+> 目前有些题目的答案还不是很完善，我们正在努力校对。**经过校对并且提供答案解析的为1-5题**。
 
 ## 概览
 本Repo是[Renkun](https://github.com/renkun-ken)50道R数据操作练习题的答案。这些题目旨在帮助用户掌握常见的数据操作，例如*找出每组中最大的N个观测*。这些练习依赖于一个股票价格数据集（包含在本项目中），包含日期、股票代码、价格等变量。
 
-[Renkun](https://github.com/renkun-ken)本没有练习的答案，我们在这里提供了使用`data.table`的实现。我们认为`data.table`是最好的R数据处理工具包，关于更多`data.table`的神奇之处，请参考它的[Github 主页](https://github.com/Rdatatable/data.table)
+[Renkun](https://github.com/renkun-ken)本人没有练习的答案，我们在这里提供了使用`data.table`的实现。我们认为`data.table`是最好的R数据处理工具包，关于更多`data.table`的神奇之处，请参考它的[Github 主页](https://github.com/Rdatatable/data.table)
 
 所有练习及答案都放在[answer-keys](answer-keys.ipynb)这个Jupyter Notebook中。
 
+> 如果希望了解更多R相关的技巧，欢迎订阅我们的公众号：`大猫的R语言课堂`。
 
 ## 项目结构
 - `dataset-and-questions.md`： 关于数据集的介绍，同时给出所有50道练习题（不含答案）。
@@ -36,16 +37,7 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 
     <img src="img/answer-keys.png" width="600">
 
-## 学习资源推荐
 
-* [Base R cheatsheet](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
-* [RStudio IDE cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
-* [Regular Expressions](https://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf)
-* [Work with Strings cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf)
-* [data.table cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/datatable.pdf)
-
-## 更多
-如果希望了解更多R相关的技巧，欢迎订阅我们的公众号：`大猫的R语言课堂`。
 
 ## 习题预览
 
@@ -112,3 +104,11 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 61. 每天开盘后到最高价涨幅最大的100只股票同样也是全天(昨收到今收)涨幅最大的100只股票的比例是多少?
 62. 每天计算最近三天每天对市场的超额收益率都排进当天前100的股票有哪些?
 63. 每天计算最近三天每天对行业的超额收益率都排进当天行业前30%的股票有哪些?
+
+## 学习资源推荐
+
+* [Base R cheatsheet](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
+* [RStudio IDE cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf)
+* [Regular Expressions](https://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf)
+* [Work with Strings cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf)
+* [data.table cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/datatable.pdf)
