@@ -17,6 +17,10 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 
 
 # R语言数据操作练习
+> Update (Jan 7, 2020)
+>
+>习题1-10完成校对。Ex-6可能仍存在争议。 
+>
 > Update (Jan 6, 2020)
 >
 > 目前有些题目的答案还不是很完善，我们正在努力校对。**经过校对并且提供答案解析的为1-5题**。
@@ -26,7 +30,7 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 
 [Renkun](https://github.com/renkun-ken)本人没有练习的答案，我们在这里提供了使用`data.table`的实现。我们认为`data.table`是最好的R数据处理工具包，关于更多`data.table`的神奇之处，请参考它的[Github 主页](https://github.com/Rdatatable/data.table)
 
-所有练习及答案都放在[answer-keys](answer-keys.ipynb)这个Jupyter Notebook中。
+所有练习及答案解析都放在[answer-keys](answer-keys.ipynb)这个Jupyter Notebook中。
 
 > 如果希望了解更多R相关的技巧，欢迎订阅我们的公众号：`大猫的R语言课堂`。
 
