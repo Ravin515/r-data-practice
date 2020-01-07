@@ -1,4 +1,4 @@
-# Answer Keys for [Renkun](https://github.com/renkun-ken)'s R Data Practise
+# Answer Keys to [Renkun](https://github.com/renkun-ken)'s R Data Practise
 ## Overview
 This is the keys to [Renkun](https://github.com/renkun-ken)'s [50 R data exercises](https://github.com/renkun-ken/r-data-practice). The original 50 exercises are desiged to help users build a solid skill set for data cleaning/manipulation. [Renkun]((https://github.com/renkun-ken)) didn't provide keys to these exercises and here we present ours using the `data.table` package. We believe `data.table` is the BEST R tool for data manipulation. For more information about how amazing `data.table` is, please refer to its [Github page](https://github.com/Rdatatable/data.table). 
 
@@ -16,12 +16,17 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 
 
 # R语言数据操作练习
+> Update (Jan 6, 2020)
+>
+> 目前有些题目的答案还不是很完善，我们正在努力校对。**经过校对的答案为1-5题**。
+
 ## 概览
 本Repo是[Renkun](https://github.com/renkun-ken)50道R数据操作练习题的答案。这些题目旨在帮助用户掌握常见的数据操作，例如*找出每组中最大的N个观测*。这些练习依赖于一个股票价格数据集（包含在本项目中），包含日期、股票代码、价格等变量。
 
 [Renkun](https://github.com/renkun-ken)本没有练习的答案，我们在这里提供了使用`data.table`的实现。我们认为`data.table`是最好的R数据处理工具包，关于更多`data.table`的神奇之处，请参考它的[Github 主页](https://github.com/Rdatatable/data.table)
 
 所有练习及答案都放在[answer-keys](answer-keys.ipynb)这个Jupyter Notebook中。
+
 
 ## 项目结构
 - `dataset-and-questions.md`： 关于数据集的介绍，同时给出所有50道练习题（不含答案）。
