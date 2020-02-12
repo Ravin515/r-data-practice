@@ -18,11 +18,14 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 
 # R语言数据操作练习
 > Update (Feb 11, 2020)
+> 增加了使用`dpylr`解题的版本（`answer-keys-dplyr.R`），由**@香酥奶油饼**提供，感谢！
+
+> Update (Jan 7, 2020)
 >
 >**习题1-21完成校对**。Ex-6可能仍存在争议。 
->
-> Update (Feb 11, 2020)
->
+
+> Update (Dec 27, 2019, First Release)
+> 
 > 目前有些题目的答案还不是很完善，我们正在努力校对。**经过校对并且提供答案解析的为1-21题**。
 
 ## 概览
@@ -116,3 +119,8 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 * [Regular Expressions](https://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf)
 * [Work with Strings cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/strings.pdf)
 * [data.table cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/datatable.pdf)
+
+## 致谢
+[@frankzhangsyd](https://github.com/frankzhangsyd)
+
+@香酥奶油饼（微信）
