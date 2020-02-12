@@ -18,7 +18,8 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 
 # R语言数据操作练习
 > Update (Feb 11, 2020)
-> 增加了使用`dpylr`解题的版本（`answer-keys-dplyr.R`），由**@香酥奶油饼**提供，感谢！
+>
+> 增加了使用`dpylr`解题的版本（`answer-keys-dplyr.R`），由 @香酥奶油饼 提供，感谢！
 
 > Update (Jan 7, 2020)
 >
