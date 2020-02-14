@@ -17,6 +17,10 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 
 
 # R语言数据操作练习
+> Update (Feb 14, 2020)
+>
+> **习题30-35完成校对**。
+
 > Update (Feb 13, 2020)
 >
 > **习题22-29完成校对**。对Ex-16进行了修改。
@@ -31,7 +35,7 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 
 > Update (Dec 27, 2019, First Release)
 > 
-> 目前有些题目的答案还不是很完善，我们正在努力校对。**经过校对并且提供答案解析的为1-21题**。
+> 目前有些题目的答案还不是很完善，我们正在努力校对。**经过校对并且提供答案解析的为1-35题**。
 
 ## 概览
 本Repo是[Renkun](https://github.com/renkun-ken)50道R数据操作练习题的答案。这些题目旨在帮助用户掌握常见的数据操作，例如*找出每组中最大的N个观测*。这些练习依赖于一个股票价格数据集（包含在本项目中），包含日期、股票代码、价格等变量。
