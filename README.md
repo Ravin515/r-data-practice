@@ -17,6 +17,10 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 
 
 # R语言数据操作练习
+> Update (Apr 26, 2020)
+>
+> **习题51-63完成校对**。对Ex-31及Ex-33进行了修改。
+
 > Update (Apr 22, 2020)
 >
 > **习题41-50完成校对**。对Ex-28进行了修改，感谢[StephenLee1029](https://github.com/StephenLee1029)的提问。
