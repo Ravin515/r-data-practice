@@ -17,9 +17,13 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 
 
 # R语言数据操作练习
+> Update (Aug 15, 2020)
+>
+> **对习题2-4进行修改，感谢[yu-soong](https://github.com/yu-soong)**
+
 > Update (July 12, 2020)
 >
-> **对习题11-15的amount_change计算公式进行了简化，增加习题10村长的答案解析**
+> **对习题11-15的amount_change计算公式进行了简化，增加习题10村长的答案解析，感谢[@zhjx19](https://github.com/zhjx19)**
 
 > Update (Apr 30, 2020)
 >
@@ -155,3 +159,5 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 @香酥奶油饼（微信）
 
 [@zhjx19](https://github.com/zhjx19)
+
+[yu-soong](https://github.com/yu-soong)
