@@ -68,7 +68,7 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 
 **所有练习及答案解析都放在[answer-keys](answer-keys.ipynb)这个Jupyter Notebook中。**
 
-> 如果希望了解更多R相关的技巧，欢迎订阅我们的公众号：`大猫的R语言课堂`。
+> 如果希望了解更多R相关的技巧，欢迎订阅我们的公众号：`大喵与村长的R进制`。
 
 ## 项目结构
 - `dataset-and-questions.md`： 关于数据集的介绍，同时给出所有50道练习题（不含答案）。
