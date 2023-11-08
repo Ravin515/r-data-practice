@@ -18,8 +18,10 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 
 # R语言数据操作练习
 > Update (Nov 8, 2023)
+>
 > **加入python的pandas解题版本**
-> **另有一部分python的datatable解题，但由于pydt烂尾，没有继续更新**
+>
+> **另有一部分python的datatable解题过程，但由于pydt烂尾，没有继续更新**
 
 > Update (Aug 15, 2020)
 >
