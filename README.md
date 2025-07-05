@@ -17,6 +17,10 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 
 
 # R语言数据操作练习
+> Update (July 5, 2025)
+>
+> **加入python的polars解题版本**
+
 > Update (Nov 8, 2023)
 >
 > **加入python的pandas解题版本**
@@ -96,7 +100,7 @@ The 50 exercises are built on a stock price dataset including variables like `sy
 7. 每天涨幅超过5%、跌幅超过5%的股票各有多少？
 8. 每天涨幅前10的股票的总成交额和跌幅前10的股票的总成交额比例是多少？
 9. 每天开盘涨停的股票与收盘涨停的股票各有多少？（涨停按照收益率超过1.5%的标准计算）
-10. 每天统计最近3天出现过开盘涨停、跌停的股票各有多少只？
+10. 每天统计最近3天出现过开盘涨停、收盘涨停的股票各有多少只？
 11. 股票每天的成交额变化率和收益率的相关性如何？
 12. 每天每个行业的总成交额变化率和行业收益率的相关性如何？
 13. 每天市场的总成交额变化率和市场收益率相关性如何？
